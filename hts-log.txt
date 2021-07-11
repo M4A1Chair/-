@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Jul 2021 23:01:39 at http://renoxcheats.cc +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://renoxcheats.cc -O1 "C:\Users\kbott\Desktop\Renox" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:01:55	Error: 	"Not Found" (404) at link renoxcheats.cc/cdn-cgi/apps/head/UXe_1iGyh8yYRjwQRT6oOZhxFgw.html (from renoxcheats.cc/)
+23:02:06	Error: 	"Not Found" (404) at link renoxcheats.cc/cdn-cgi/bm/cv/669835187/api.html (from renoxcheats.cc/)
+23:12:26	Error: 	"Not Found" (404) at link renoxcheats.cc/assets/others/Consolas.html (from renoxcheats.cc/assets/stylesheets/stylesheet.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page1/images/favicon.png (from renoxcheats.cc/page1/index.html)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-brands-400.eot (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-brands-400d41d.eot? (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-brands-400.woff2 (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-brands-400.woff (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-brands-400.ttf (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-brands-400.svg (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-regular-400.eot (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-regular-400d41d.eot? (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-regular-400.woff2 (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-regular-400.woff (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-regular-400.ttf (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-regular-400.svg (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-solid-900.eot (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-solid-900d41d.eot? (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-solid-900.woff2 (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-solid-900.woff (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-solid-900.ttf (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/fa-solid-900.svg (from renoxcheats.cc/page/assets/fonts/fontawesome-all.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Black.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-BlackItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Bold.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-BoldItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-ExtraBold.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-ExtraBoldItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-ExtraLight.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-ExtraLightItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Italic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Light.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-LightItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Medium.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-MediumItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Regular.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-SemiBold.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-SemiBoldItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-Thin.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/assets/fonts/Montserrat-ThinItalic.woff (from renoxcheats.cc/page/assets/css/styles.min.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/fonts/icomoon/icomoon.eot?srf3rx (from renoxcheats.cc/page/css/style.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/fonts/icomoon/icomoon.ttf?srf3rx (from renoxcheats.cc/page/css/style.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/fonts/icomoon/icomoon.woff?srf3rx (from renoxcheats.cc/page/css/style.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/fonts/icomoon/icomoon.svg?srf3rx (from renoxcheats.cc/page/css/style.css)
+23:13:16	Error: 	"Not Found" (404) at link renoxcheats.cc/page/images/loader.gif (from renoxcheats.cc/page/css/style.css)
+23:13:16	Warning: 	File not parsed, looks like binary: renoxcheats.cc/page1/webfonts/fa-brands-400.woff2
+23:13:16	Warning: 	File not parsed, looks like binary: renoxcheats.cc/page1/webfonts/fa-regular-400.woff2
+23:13:16	Warning: 	File not parsed, looks like binary: renoxcheats.cc/page1/webfonts/fa-solid-900.woff2
+23:13:25	Error: 	"Not Found" (404) at link renoxcheats.cc/page1/images/contact-background.jpg (from renoxcheats.cc/page1/css/styles.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 46 seconds : 113 links scanned, 66 files written (19677216 bytes overall) [17560405 bytes received at 24873 bytes/sec], 3534034 bytes transferred using HTTP compression in 96 files, ratio 37%, 6.0 requests per connection
+(46 errors, 3 warnings, 0 messages)
